@@ -7,7 +7,7 @@ Voici mes certifications IBM :
 - 🎖️ [Open Source Foundations](https://skills.yourlearning.ibm.com/credential/CREDLY-0579e998-904c-490a-a342-619c1a22232b)
   
 ### 🔗 Lien pour tous les certifications :
-- (https://www.credly.com/users/georgia-boulnois/badges#credly)
+- https://www.credly.com/users/georgia-boulnois/badges#credly
 
 
 
