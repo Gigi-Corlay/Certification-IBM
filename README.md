@@ -6,7 +6,7 @@ Voici mes certifications IBM :
 - 🎖️ [SkillsBuild - Customer Engagement: Communication and Personality Dynamics](https://skills.yourlearning.ibm.com/credential/CREDLY-70391797-ca78-41b7-94ca-d2f760e32a81)
 - 🎖️ [Open Source Foundations](https://skills.yourlearning.ibm.com/credential/CREDLY-0579e998-904c-490a-a342-619c1a22232b)
   
-###🔗 Lien pour tous les certifications :
+### 🔗 Lien pour tous les certifications :
 - (https://www.credly.com/users/georgia-boulnois/badges#credly)
 
 
