@@ -12,6 +12,7 @@ Voici mes certifications IBM :
 
 ## Certifications IBM : SQL and Relational Databases 101 :
 file:///Users/georgiaboulnois/Desktop/Capture%20d%E2%80%99e%CC%81cran%202026-04-19%20a%CC%80%2023.02.30.png
+<img src="images/mon_image.png" width="300">
 ttps://courses.skillsbuild.skillsnetwork.site/certificates/95ac838c1e19406d97eb08f30a2716be
 
 ## Certifications IBM : Project Management Fundamentals :
