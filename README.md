@@ -11,7 +11,7 @@ Voici mes certifications IBM :
 - https://www.credly.com/users/georgia-boulnois/badges#credly
 
 ## Certifications IBM : SQL and Relational Databases 101 :
-<img src="images/mon_image.png" width="300">
+<img src="Users/georgiaboulnois/Desktop/Capture_certificate.png" width="300">
 ttps://courses.skillsbuild.skillsnetwork.site/certificates/95ac838c1e19406d97eb08f30a2716be
 
 ## Certifications IBM : Project Management Fundamentals :
