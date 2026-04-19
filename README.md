@@ -12,7 +12,7 @@ Voici mes certifications IBM :
 
 ## Certifications IBM : SQL and Relational Databases 101 :
 <img src="Capture_certificate.png" width="300">
-ttps://courses.skillsbuild.skillsnetwork.site/certificates/95ac838c1e19406d97eb08f30a2716be
+https://courses.skillsbuild.skillsnetwork.site/certificates/95ac838c1e19406d97eb08f30a2716be
 
 ## Certifications IBM : Project Management Fundamentals :
 https://skills.yourlearning.ibm.com/activity/ALM-COURSE_3826383
