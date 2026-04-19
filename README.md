@@ -10,6 +10,11 @@ Voici mes certifications IBM :
 ### 🔗 Lien pour tous les certifications :
 - https://www.credly.com/users/georgia-boulnois/badges#credly
 
+## Certifications IBM : Project Management Fundamentals :
+https://skills.yourlearning.ibm.com/activity/ALM-COURSE_3826383
+https://skills.yourlearning.ibm.com/activity/ALM-COURSE_3826385
+https://skills.yourlearning.ibm.com/credential/CREDLY-91729493-de65-4873-ac9f-01024c7a9fe5
+
 
 
 
